@@ -4,10 +4,10 @@ Questions, answers and ideas for **Sondar**, the self-hosted observability platf
 metrics and traces. This repository holds no code; it is the home of
 [Discussions](https://github.com/sondar-dev/community/discussions).
 
-- **Ask a question** in [Q&A](https://github.com/sondar-dev/community/discussions/categories/q-a).
+- **Ask a question:** [start a discussion](https://github.com/sondar-dev/community/discussions).
   Say which version you run (Help (?) > About in the top bar), how it is deployed (Docker, Compose or Helm), and
   what you expected to see.
-- **Suggest a change** in [Ideas](https://github.com/sondar-dev/community/discussions/categories/ideas).
+- **Suggest a change** the same way, saying what you were trying to do.
 - **Read the handbook first:** [docs.sondar.dev](https://docs.sondar.dev).
 
 Before you paste logs or configuration, remove passwords, tokens, keys and anything about your
